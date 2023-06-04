@@ -1,37 +1,6 @@
-<!DOCTYPE html>
 
-<html>
-
-  <head>
-
-    <style>
-
-      @keyframes flower-animation {
-
-        0% { transform: rotate(0deg); }
-
-        100% { transform: rotate(360deg); }
-
-      }
-
-      .flower {
-
-        width: 100px;
-
-        height: 100px;
-
-        background-image: url('flower.png'); /* Replace with your own image */
-        animation: flower-animation 5s infinite linear;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="flower"></div>
-  </body>
-</html>
-<h1 align="center">
-  <b>PiroAutoFilterBot</b>
-</h1>
+        
+ 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=PIRO+MOVIE+SEARCH+BOT+!;CREATED+BY+PIRO!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)</p>
 <a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/stargazers"><img src="https://img.shields.io/github/stars/ritheshrkrm/PiroAutoFilterBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
