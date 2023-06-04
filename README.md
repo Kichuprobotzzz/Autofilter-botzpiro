@@ -1,6 +1,34 @@
-<p align="center">
-  <img src="assets/logo.jpg">
-</p>
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <style>
+
+      @keyframes flower-animation {
+
+        0% { transform: rotate(0deg); }
+
+        100% { transform: rotate(360deg); }
+
+      }
+
+      .flower {
+
+        width: 100px;
+
+        height: 100px;
+
+        background-image: url('flower.png'); /* Replace with your own image */
+        animation: flower-animation 5s infinite linear;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="flower"></div>
+  </body>
+</html>
 <h1 align="center">
   <b>PiroAutoFilterBot</b>
 </h1>
